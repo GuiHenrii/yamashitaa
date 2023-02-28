@@ -1,4 +1,4 @@
-https://www.instagram.com/gui_henrii_/
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=120&section=header"/>
 
